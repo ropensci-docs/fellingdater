@@ -1,0 +1,10 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  getting_started: getting_started.html
+  articles/the_workflow: the_workflow.html
+last_built: 2025-01-29T05:08Z
+urls:
+  reference: https://docs.ropensci.org/fellingdater/reference
+  article: https://docs.ropensci.org/fellingdater/articles

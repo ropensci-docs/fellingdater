@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "39c4e62e174652000ca6cc8f1b40d15996eabe0c",
+    "author": "hanecakr <Kristof.Haneca@vlaanderen.be>",
+    "time": "2024-05-22 13:17:08",
+    "files": 2,
+    "merge": false,
+    "message": "fellingdater 1.0.2\n"
+  },
+  "repo": "https://github.com/ropensci/fellingdater",
+  "pkg": "fellingdater"
+}
