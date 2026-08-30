@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "0b5082d0f732d9584dd68dee70e056702489baff",
+    "author": "Kristof Haneca <Kristof.Haneca@vlaanderen.be>",
+    "time": "2026-04-15T06:10:08Z",
+    "files": 1,
+    "merge": false,
+    "message": "release version 1.2.1\n"
+  },
+  "repo": "https://github.com/ropensci/fellingdater",
+  "pkg": "fellingdater",
+  "time": "2026-08-30T07:30:13Z"
+}
